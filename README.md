@@ -7,6 +7,7 @@
 * GABRIEL PONTES
 
 # DESCRIÇÃO:
+
 O projeto game scope consiste em uma plataforma de review de jogos eletrônicos com o intuito de mostrar aos jogadores se o jogo é realmente bom, antes de o adiquirir, onde esses jogadores podem avalariar e comentar sobre os jogos na página do proprio. Nossa plataforma vai ser na linguagem Python no Framework Django.
 
 Link do projeto do jira: 
